@@ -3,7 +3,7 @@
 #### Follow this steps:
 ```  
 Fork this repo
-Solve anyone problem of love babbar 450 question set
+Solve any problem of love babbar 450 question set
 Name filename as problem statement name + append question number as it's initials. 
 make a pr 
 ```
