@@ -11,8 +11,8 @@ int main() {
 		cin>>a[i];
 		if(a[i]>max)
 		max = a[i];
-		if(a[i]<min)
-	    min = a[i];
+		else if(a[i]<min)    //add "else if" statement to reduce the no. of comparision.
+	    	min = a[i];
 	}
 	cout<<min<<" "<<max<<endl;
 	
